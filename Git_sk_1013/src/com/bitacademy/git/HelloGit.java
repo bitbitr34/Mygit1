@@ -9,6 +9,7 @@ public class HelloGit {
 		//二쇱꽍2 "
 		//二쇱꽍 異붽�  ->���옣 ->commit
 		System.out.println("good to see you");
+		System.out.println("my name is zeus");
 	}
 
 }
